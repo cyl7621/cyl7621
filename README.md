@@ -1,6 +1,6 @@
 - 👋 Hi, everyone!
 - 👀 I love numbers and I am interested in Data Science. I am enjoying doing data analysis by using machine learning models to solve problems and gaining insights from chaos.
-- 🌱 I am curious by nature. Learning is a life-long process and I will never stop wondering about new technology and innovations.
+- 🌱 I am curious by nature. Learning is a life-long process and I will never stop wondering about new technologies and innovations.
 - ✨ Hobbies:  Hiking, travel, movies, and eat! :)
 
 
